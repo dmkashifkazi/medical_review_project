@@ -225,3 +225,19 @@ or through a properly designed cross-validation procedure.
 
 **Kashif**  
 Machine Learning | NLP | Data Engineering
+
+## Git commands
+git --version
+cd MEDICINE_REVIEW_PROJECT/
+git init
+git status
+git add .
+git commit -m "Initial Commit"
+git config --global user.name "Your Name"
+git config --global user.email "your@email.com"
+git config --list
+git branch -M main
+git remote add origin https://github.com/dmkashifkazi/medical_review_project.git
+git branch -M main
+git push -u origin main
+###############
